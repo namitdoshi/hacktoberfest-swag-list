@@ -186,6 +186,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### U
 
+#### **Umbraco**
+
+- **Swag**: Stickers
+- **Requirements**: Have one approved PR on any Umbraco repo to get some exclusive and limited Umbraco swag. All contributors will also be listed by Github username in their November blog post!
+- **How to sign up**: Sign up on github, register for hacktoberfest and visit [Umbraco's CMS repositoriy](https://github.com/umbraco/Umbraco-CMS/blob/v8/dev/.github/CONTRIBUTING.md) or [Umbraco's Documentation](https://our.umbraco.com/documentation/Contribute/?_ga=2.73209171.1172534720.1570206809-1058419421.1570206809).
+- **Notes**: See the [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
+
 #### **Uno Platform**
 
 - **Swag**: T-shirt
